@@ -1,2 +1,9 @@
+table,td,th,tr{border: 1px solid black}
+table{width: 90%}
+table,td{text-align: center}
+table{align-content: center}
+.nested-table-4 td{
+	text-align: center; background-color:black; color: white
+}
 
 /* Your CSS Code here. */
